@@ -1,0 +1,2 @@
+# ptcLAB_v2.0_Nulled
+ ptcLAB is an laravel Based Script for Pay Per Click business. You can run your own PTC, PPC or PPV website within a minutes without any programming knowledge. Admin able to set unlimited links from admin panel, and when user click or view those they will get paid. Its an online Earning Platform for both Site owner and User. our system is fully dynamic, Easy to use, User Friendly and 100% responsive.
